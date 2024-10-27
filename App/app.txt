@@ -1,0 +1,1 @@
+{"anger":"😠","disgust":"🤮", "fear":"😨😱", "happy":"🤗", "joy":"😂", "neutral":"😐","sad":"😔", "sadness":"😔","shame":"😳","surprise":"😮"}
